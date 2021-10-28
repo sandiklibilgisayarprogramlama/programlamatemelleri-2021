@@ -22,3 +22,11 @@ print(type(float(girilen)))
 s1 = int(input("sayı 1 giriniz"))
 s2 = int(input("sayı 2 giriniz"))
 print("{} ile {} sayılarının çarpımı {}' dir.".format(s1,s2,s1*s2))
+
+# klavyeden girilen üç metni aralarına nokta koyarak ekrana yazan programı
+# kodlayınız.
+
+m1 = input("metin 1")
+m2 = input("metin 2")
+m3 = input("metin 3")
+print(m1,m2,m3,sep=".")
