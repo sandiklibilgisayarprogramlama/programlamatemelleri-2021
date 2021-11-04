@@ -30,3 +30,5 @@ m1 = input("metin 1")
 m2 = input("metin 2")
 m3 = input("metin 3")
 print(m1,m2,m3,sep=".")
+
+
